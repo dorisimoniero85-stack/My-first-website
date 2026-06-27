@@ -1,2 +1,1 @@
-# My-first-website
-My first website built with html, css and JavaScript that display random facts
+My First Website is a beginner-friendly project built with HTML, CSS, and JavaScript. It showcases the fundamentals of web development through a clean and interactive design. Creating this project helped me understand how to structure web pages, style them with CSS, and add simple interactivity using JavaScript.
